@@ -1,0 +1,8 @@
+Atividade Prática de Git e GitHub - Geração Tech
+
+Aluno: João Pedro Félix de Oliveira
+Curso: Desenvolvimento Web Full Stack
+
+Esta atividade tem como objetivo praticar os comandos básicos do Git e GitHub, incluindo git clone, git add, git commit e git push.
+
+O arquivo foi criado no Visual Studio Code e será enviado para um repositório remoto no GitHub. 
